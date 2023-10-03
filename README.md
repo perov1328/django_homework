@@ -1,1 +1,1 @@
-# django_homework
+Homework repository in Django block
